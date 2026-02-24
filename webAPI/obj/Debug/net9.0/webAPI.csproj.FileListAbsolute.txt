@@ -1,0 +1,9 @@
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.csproj.AssemblyReference.cache
+C:\werk\project\webAPI\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.AssemblyInfoInputs.cache
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.AssemblyInfo.cs
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.csproj.CoreCompileInputs.cache
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.RazorAssemblyInfo.cache
+C:\werk\project\webAPI\obj\Debug\net9.0\webAPI.RazorAssemblyInfo.cs
